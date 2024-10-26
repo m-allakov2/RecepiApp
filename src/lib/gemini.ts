@@ -37,6 +37,8 @@ export const generateRecipe = async (
     3. Pişirme Süresi
     4. Adım Adım Hazırlanışı
     5. Servis Önerisi
+
+    not:"eğer verilen malzemelr seçilen pişirme türü öğün türü uyuşmuyorsa bu istediğinize göre yemek yapamıyoruz de"
   `;
 
   try {
